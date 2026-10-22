@@ -1,0 +1,1 @@
+# neural-network-vmk-2-kurs
